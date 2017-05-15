@@ -331,7 +331,7 @@ INTRO
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff7473', endColorstr='#ff46426f', GradientType=1);*/
 	
 	background-image: url("../img/slide-bg.jpg");
-	background-size: 165%;
+	/*background-size: 165%;*/
 	background-repeat: no-repeat;
   }
 }
